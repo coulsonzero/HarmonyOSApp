@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Sport And Health Ability"
+    },
+    {
+      "name": "walk_widget_description",
+      "value": "This is a Widget"
+    },
+    {
+      "name": "plan_widget_description",
+      "value": "This is a Widget"
+    },
+    {
+      "name": "widget_button_description",
+      "value": "Button Description"
+    },
+    {
+      "name": "widget_ability_description",
+      "value": "This is a WidgetAbility"
+    }
+  ]
+}

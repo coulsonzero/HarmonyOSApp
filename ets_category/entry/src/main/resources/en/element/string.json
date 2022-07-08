@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "eTS_Category Ability"
+    },
+    {
+      "name": "app_name",
+      "value": "CategoryPage"
+    },
+    {
+      "name": "describe",
+      "value": "describe"
+    },
+    {
+      "name": "category",
+      "value": "Category%d"
+    },
+    {
+      "name": "itemChild",
+      "value": "%dItemChild%d"
+    },
+    {
+      "name": "item",
+      "value": "Item%d"
+    },
+    {
+      "name": "search",
+      "value": "search..."
+    },
+    {
+      "name": "you_search",
+      "value": "You search "
+    },
+    {
+      "name": "you_clicked",
+      "value": "You clicked "
+    },
+    {
+      "name": "tab",
+      "value": "Tab%d"
+    },
+    {
+      "name": "more",
+      "value": "more >"
+    }
+  ]
+}

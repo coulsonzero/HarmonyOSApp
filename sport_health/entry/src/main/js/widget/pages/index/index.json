@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Title",
+    "detail": "Text",
+    "iconTitle": "Picture"
+  },
+  "actions": {
+    "routerEvent": {
+      "action": "router",
+      "bundleName": "com.example.sport_health",
+      "abilityName": "com.example.sport_health.MainAbility",
+      "params": {
+        "message": "add detail"
+      }
+    }
+  }
+}

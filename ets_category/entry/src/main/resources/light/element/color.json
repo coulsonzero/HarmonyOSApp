@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "colorSubBackground",
+      "value": "#f1f3f5"
+    },
+    {
+      "name": "appbar_subtitle_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "text_color",
+      "value": "#000000"
+    }
+  ]
+}

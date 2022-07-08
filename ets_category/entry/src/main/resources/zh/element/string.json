@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "eTS_Category Ability"
+    },
+    {
+      "name": "app_name",
+      "value": "分类页"
+    },
+    {
+      "name": "describe",
+      "value": "描述"
+    },
+    {
+      "name": "category",
+      "value": "分类%d"
+    },
+    {
+      "name": "itemChild",
+      "value": "%d子类%d"
+    },
+    {
+      "name": "item",
+      "value": "类型%d"
+    },
+    {
+      "name": "search",
+      "value": "搜索..."
+    },
+    {
+      "name": "you_search",
+      "value": "你搜索了"
+    },
+    {
+      "name": "you_clicked",
+      "value": "你点击了"
+    },
+    {
+      "name": "tab",
+      "value": "分页%d"
+    },
+    {
+      "name": "more",
+      "value": "更多 >"
+    }
+  ]
+}
